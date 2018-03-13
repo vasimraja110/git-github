@@ -1,0 +1,53 @@
+[33mcommit a5e0d2a1df7bcf4bee07ec0f96648e9887070b0f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 19:30:54 2018 +0530
+
+    revert2
+
+[33mcommit b2637a229d59757346bae03cf7fb1fb4524b7a7d[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 19:29:57 2018 +0530
+
+    revert1
+
+[33mcommit d0ce9236a80f1bd96131ef040b5283b0e29ae7a7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/firstbranch[m[33m, [m[1;32mfirstbranch[m[33m)[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 19:01:51 2018 +0530
+
+    adding for rebasing
+
+[33mcommit 112ec7e2e9e877a17378ea5b7cd9803acb631702[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 18:55:26 2018 +0530
+
+    Modifying edu4
+
+[33mcommit 420962ff2a7b27dd965f9083aaaf1fc77aa3e4ab[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 18:50:44 2018 +0530
+
+    maing changes in firstbranch
+
+[33mcommit 3d581f7984e097882b347a55cff0a63cf2a4d13e[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 18:45:57 2018 +0530
+
+    adding 3 files together
+
+[33mcommit a7442a2431c1199de0ffb52023a58ef2e2fe6ec2[m
+Author: Vasim Raja <vasimraja110@gmail.com>
+Date:   Tue Mar 13 18:41:38 2018 +0530
+
+    adding first commit in local repo
+
+[33mcommit 47ad4c066ce19d6dc2ad6d5e28e7aaa920ec1686[m
+Author: vasimraja110 <36641411+vasimraja110@users.noreply.github.com>
+Date:   Tue Mar 13 18:14:38 2018 +0530
+
+    Update README.md
+
+[33mcommit 2ab0314d0a2c76db1d42df2e2d2ae66d8096f95c[m
+Author: vasimraja110 <36641411+vasimraja110@users.noreply.github.com>
+Date:   Tue Mar 13 18:12:33 2018 +0530
+
+    Initial commit
